@@ -1,0 +1,10 @@
+Scrum é um dos frameworks de gerenciamento de projetos ágeis.
+Onde equipes pequenas e multiciplinares produzem os melhores resultados.
+Pilares: Transparência- adaptação e inspeção.
+
+Time: PO- Scrum Master- Dev
+ 
+Onde o produto Backlog é composto de Épicos - estórias e Atividades
+
+O Scrum permite melhorar o produto baseando -seno feedback e evoluir em outras funcionalidades.
+
